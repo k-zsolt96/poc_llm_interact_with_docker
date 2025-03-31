@@ -1,0 +1,6 @@
+docker
+langchain
+langchain-community
+langchain-ollama
+ollama
+vllm
